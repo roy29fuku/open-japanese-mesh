@@ -1,7 +1,7 @@
 # open-japanese-mesh
 
 ## how to use
-- see ws_mannual.ipynb
+- see mannual.ipynb
 
 
 ## objective
@@ -16,13 +16,6 @@
 - Japanese Terminology
     - Kitasato University's English-Japanese: [医学用語集（北里大学 医療情報学研究室](http://www.aamt.info/japanese/utx/medutx1.05.zip)
     - TEMU
-- Engilish Terminology
-    - Ontologies (eg. HPO) that have both English and Japanese labels to its entries
-- MeSH Descriptor
-    - [MeSH](ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/)
-
-
-
-# 課題
-- 辞書の英語にタイポや全角英数などが含まれる
-- 評価関数を作成する
+- MeSH
+    - [MeSH Descriptor](ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/)
+    - [MeSH Supplementary](ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/)
