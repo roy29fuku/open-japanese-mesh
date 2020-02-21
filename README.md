@@ -1,6 +1,12 @@
 # open-japanese-mesh
 
+## setup
+`$ pipenv install`
+`$ pipenv shell`
+
+
 ## how to use
+`$ pipenv run jupyter notebook`
 - see mannual.ipynb
 
 
