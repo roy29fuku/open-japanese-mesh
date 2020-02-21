@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 nltk = "==3.4"
-numpy = "==1.16.2"
 jupyter = "*"
 python-dotenv = "*"
 chain-norm = "*"
