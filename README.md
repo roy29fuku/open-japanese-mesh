@@ -6,10 +6,19 @@
 
 
 ## setup
+prepare Python enviroment
 ```
 $ pipenv install
 $ pipenv shell
 ```
+
+write the path of the files
+```
+$ cp .env.sample .env
+$ vi .env
+```
+
+
 
 
 ## how to use
@@ -24,7 +33,7 @@ see mannual.ipynb
     - Kitasato University's English-Japanese
         - [医学用語集（北里大学 医療情報学研究室）](http://www.aamt.info/japanese/utx/medutx1.05.zip)
     - TEMU
-        - []()
+        - [](http://temu.bsc.es/mespen/downloads/glossaries.tar.gz)
 - ontology
     - MeSH
         - [MeSH Descriptor](ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/asciimesh/)
